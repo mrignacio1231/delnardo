@@ -1,4 +1,2 @@
 # delnardo
-# test
-# test
-# test
+Publicaré aquí cualquier cosa random sobre la cual estoy trabajando. 
